@@ -6,4 +6,6 @@ import serial
 
 
 def main():
-    pass
+    print "hello world"
+    return 0
+
